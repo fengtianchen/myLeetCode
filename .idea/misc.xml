@@ -4,7 +4,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/array/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/leetCode/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">

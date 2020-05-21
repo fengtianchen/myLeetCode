@@ -1,10 +1,10 @@
-package com.ftc.array;
+package com.ftc.leetcode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArrayApplicationTests {
+class LeetcodeApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.ftc.array;
+package com.ftc.leetcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ArrayApplication {
+public class LeetcodeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ArrayApplication.class, args);
+        SpringApplication.run(LeetcodeApplication.class, args);
     }
 
 }
